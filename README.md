@@ -1,9 +1,9 @@
 # DSA-A2Z
 A comprehensive github repository which contains all Python codes to help you prepare for your placements.
 
-## Topics
+# Topics
 
-# Sorting
+## Sorting
 1. Bubble Sort
 2. Selection Sort
 3. Insertion Sort
@@ -13,7 +13,7 @@ A comprehensive github repository which contains all Python codes to help you pr
 7. Quick Sort
 8. Cyclic Sort
 
-# Arrays	
+## Arrays	
 1. Largest Element in an Array
 2. Second Largest Element in an Array without sorting
 3. Check if the array is sorted
