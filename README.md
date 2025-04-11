@@ -13,7 +13,7 @@ A comprehensive github repository which contains all Python codes to help you pr
 7. Quick Sort
 8. Cyclic Sort
 
-## Arrays	
+## Arrays	[Easy]
 1. Largest Element in an Array
 2. Second Largest Element in an Array without sorting
 3. Check if the array is sorted
@@ -22,4 +22,10 @@ A comprehensive github repository which contains all Python codes to help you pr
 6. Right Rotate an array
 7. Move Zeros to end
 8. Linear Search
+9. Find the union of two arrays
+10. Missing Number in an array
+11. Maximum consecutive ones
+12. Find the number that appears once, and other numbers twice
+13. Longest subarray with given sum K(positives)
+14. Longest subarray with sum K (Positives + Negatives)
 
