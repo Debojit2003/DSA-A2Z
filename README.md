@@ -26,6 +26,7 @@ A comprehensive github repository which contains all Python codes to help you pr
 10. Missing Number in an array
 11. Maximum consecutive ones
 12. Find the number that appears once, and other numbers twice
-13. Longest subarray with given sum K(positives)
-14. Longest subarray with sum K (Positives + Negatives)
+13. Find the number that appears once, and other numbers thrice - LC 137
+14. Longest subarray with given sum K(positives) [Not Done]
+15. Longest subarray with sum K (Positives + Negatives) [Not Done]
 
