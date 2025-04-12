@@ -27,6 +27,20 @@ A comprehensive github repository which contains all Python codes to help you pr
 11. Maximum consecutive ones
 12. Find the number that appears once, and other numbers twice
 13. Find the number that appears once, and other numbers thrice - LC 137
-14. Longest subarray with given sum K(positives) [Not Done]
-15. Longest subarray with sum K (Positives + Negatives) [Not Done]
+14. Longest subarray with given sum K(positives)
+15. Longest subarray with sum K (Positives + Negatives)
+
+## Arrays [Medium]
+1. Two Sum
+2. Sort an array of 0's 1's and 2's
+3. Majority Element (>n/2 times)
+4. Kadane's Algorithm, maximum subarray sum
+5. Print subarray with maximum subarray sum (extended version of above problem)
+6. Stock Buy and Sell
+7. Rearrange the array in alternating positive and negative items
+8. Next Permutation
+9. Leaders in an Array problem
+10. Longest Consecutive Sequence in an Array
+11. Set Matrix Zeros
+12. 
 
