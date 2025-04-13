@@ -9,5 +9,5 @@ def sec_large(arr):
     
     return max(secmax) if found else -1
 
-arr = list(map(int,input("Enter the array elements comma seperated: ").split()))
+arr = list(map(int,input("Enter the array elements comma seperated: ").split(',')))
 print(sec_large(arr))
